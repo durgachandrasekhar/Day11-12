@@ -1,0 +1,16 @@
+C:\Users\SHIVA KUMAR\source\repos\JsonInventor\JsonInventor\bin\Debug\netcoreapp3.1\JsonInventor.exe
+C:\Users\SHIVA KUMAR\source\repos\JsonInventor\JsonInventor\bin\Debug\netcoreapp3.1\JsonInventor.deps.json
+C:\Users\SHIVA KUMAR\source\repos\JsonInventor\JsonInventor\bin\Debug\netcoreapp3.1\JsonInventor.runtimeconfig.json
+C:\Users\SHIVA KUMAR\source\repos\JsonInventor\JsonInventor\bin\Debug\netcoreapp3.1\JsonInventor.runtimeconfig.dev.json
+C:\Users\SHIVA KUMAR\source\repos\JsonInventor\JsonInventor\bin\Debug\netcoreapp3.1\JsonInventor.dll
+C:\Users\SHIVA KUMAR\source\repos\JsonInventor\JsonInventor\bin\Debug\netcoreapp3.1\JsonInventor.pdb
+C:\Users\SHIVA KUMAR\source\repos\JsonInventor\JsonInventor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SHIVA KUMAR\source\repos\JsonInventor\JsonInventor\obj\Debug\netcoreapp3.1\JsonInventor.csproj.AssemblyReference.cache
+C:\Users\SHIVA KUMAR\source\repos\JsonInventor\JsonInventor\obj\Debug\netcoreapp3.1\JsonInventor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIVA KUMAR\source\repos\JsonInventor\JsonInventor\obj\Debug\netcoreapp3.1\JsonInventor.AssemblyInfoInputs.cache
+C:\Users\SHIVA KUMAR\source\repos\JsonInventor\JsonInventor\obj\Debug\netcoreapp3.1\JsonInventor.AssemblyInfo.cs
+C:\Users\SHIVA KUMAR\source\repos\JsonInventor\JsonInventor\obj\Debug\netcoreapp3.1\JsonInventor.csproj.CoreCompileInputs.cache
+C:\Users\SHIVA KUMAR\source\repos\JsonInventor\JsonInventor\obj\Debug\netcoreapp3.1\JsonInventor.csproj.CopyComplete
+C:\Users\SHIVA KUMAR\source\repos\JsonInventor\JsonInventor\obj\Debug\netcoreapp3.1\JsonInventor.dll
+C:\Users\SHIVA KUMAR\source\repos\JsonInventor\JsonInventor\obj\Debug\netcoreapp3.1\JsonInventor.pdb
+C:\Users\SHIVA KUMAR\source\repos\JsonInventor\JsonInventor\obj\Debug\netcoreapp3.1\JsonInventor.genruntimeconfig.cache
